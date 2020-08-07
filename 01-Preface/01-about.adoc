@@ -8,19 +8,20 @@ category: Preface
 
 toc::[]
 
-AdonisJs is a Node.js MVC framework that runs on all major operating systems. It offers a stable ecosystem to write server-side web applications so you can focus on business needs over finalizing which package to choose or not.
+AdonisJS é um Framework MVC Node.js que funciona em todos os principais sistemas operacionais. Ele oferece um ecosistema estável para escrever aplicações web do lado do servidor, então vocẽ pode focar nas necessidades do negócio ao invés de ficar escolhendo qual pacote escolher ou não.
 
-AdonisJs favors developer joy with a consistent and expressive API to build full-stack web applications or micro API servers.
+AdonisJs favorece o desenvolvedor curtir com uma consistente e expressiva API para construir aplicações web fullstack ou micro API.
 
-== Getting started
-There are no hard prerequisites for using AdonisJs, but having a conventional understanding of JavaScript, Async programming and Node.js is very helpful.
+== Iniciando
 
-Also, if you are new to JavaScript or unfamiliar with its recent progress in ES6, we recommend watching link:https://goo.gl/ox3uSc[Wes Bos's ES6 course, window="_blank"].
+Não há pré-requisitos complicados para usar AdonisJs, mas ter um entendimento convencional de Javascript, Programação assíncrona e Node.js é muito útil.
 
-Finally, make sure to read through our link:installation[installation] guide, especially if this is your first time using AdonisJs.
+Também, se você é novo no Javascript ou não é familiar com seu recente progresso no ES6, nós recomendamos assistir link:https://goo.gl/ox3uSc[Wes Bos's ES6 course, window="_blank"].
+
+Finalmente, certifique de ler através do nosso guia de link:installation[instalação], especialmente se esse é sua primeira vez usando AdonisJs.
 
 == Providers
-AdonisJs is a modular framework that consists of multiple service providers, the building blocks of AdonisJs applications.
+AdonisJs é um framework modular que consiste de multiplos provedores de serviços, os elementos básicos das aplicações AdonisJs. 
 
 In theory, they are like any other npm module with some code on top to work smoothly with AdonisJs applications (for example, link:https://github.com/adonisjs/adonis-bodyparser[BodyParser] to parse the HTTP request body, or link:https://github.com/adonisjs/adonis-lucid[Lucid] which is a SQL ORM).
 
