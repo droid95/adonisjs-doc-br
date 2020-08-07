@@ -18,7 +18,7 @@ Não há pré-requisitos complicados para usar AdonisJs, mas ter um entendimento
 
 Também, se você é novo no Javascript ou não é familiar com seu recente progresso no ES6, nós recomendamos assistir link:https://goo.gl/ox3uSc[Wes Bos's ES6 course, window="_blank"].
 
-Finalmente, certifique de ler através do nosso guia de link:installation[instalação], especialmente se esse é sua primeira vez usando AdonisJs.
+Finalmente, certifique de ler através do nosso guia de link:installation[instalação], especialmente se essa é sua primeira vez usando AdonisJs.
 
 == Providers
 AdonisJs é um framework modular que consiste de multiplos provedores de serviços, os elementos básicos das aplicações AdonisJs. 
