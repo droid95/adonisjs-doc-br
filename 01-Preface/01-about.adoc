@@ -4,7 +4,7 @@ permalink: about
 category: Preface
 ---
 
-= About AdonisJs
+= Sobre o AdonisJs
 
 toc::[]
 
